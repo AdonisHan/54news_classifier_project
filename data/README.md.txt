@@ -1,0 +1,2 @@
+- Download the data set -aclImdb
+- Paste to 54news_classifier_project\FairiesNLU\data\aclImdb
